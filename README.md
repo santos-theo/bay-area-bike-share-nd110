@@ -4,3 +4,9 @@ Analise_Bay_Area_Bike_Share-NDFDSI
 A Bay Area Bike Share é uma empresa que oferece aluguel de bicicletas a clientes em São Francisco, Redwood City, Palo Alto, Mountain View e San Jose. Os usuários podem desbloquear bicicletas de diversas estações em cada cidade e devolvê-las em qualquer estação dentro da mesma cidade. O serviço é pago por meio de assinatura anual ou pela compra de passes de três dias ou 24 horas. Os usuários podem fazer um número ilimitado de viagens. Viagens com menos de trinta minutos de duração não terão custo adicional; viagens mais longas incorrerão em taxas de horas extras.
 
 Neste projeto foi analisado duas das principais partes do processo de análise de dados: limpeza de dados e análise exploratória a fim de tomar decisões de negócios mais inteligentes
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Bay Area Bike Share is a company that offers bicycle rentals to customers in San Francisco, Redwood City, Palo Alto, Mountain View and San Jose. Users can unlock bicycles from various stations in each city and return them to any station within the same city. The service is paid by annual subscription or by purchasing three-day or 24-hour passes. Users can make an unlimited number of trips. Trips with less than thirty minutes of duration will have no additional cost; longer trips will incur overtime charges.
+
+In this project it was analyzed two of the key parts of the data analysis process: data cleansing and exploratory analysis to make smarter business decisions
