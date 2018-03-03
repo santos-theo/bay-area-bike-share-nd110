@@ -1,12 +1,23 @@
-# bay-area-bike-share-nd110
-Analise_Bay_Area_Bike_Share-NDFDSI
+This folder contains files for P0: Analyze Bay Area Bike Share Data.
 
-A Bay Area Bike Share é uma empresa que oferece aluguel de bicicletas a clientes em São Francisco, Redwood City, Palo Alto, Mountain View e San Jose. Os usuários podem desbloquear bicicletas de diversas estações em cada cidade e devolvê-las em qualquer estação dentro da mesma cidade. O serviço é pago por meio de assinatura anual ou pela compra de passes de três dias ou 24 horas. Os usuários podem fazer um número ilimitado de viagens. Viagens com menos de trinta minutos de duração não terão custo adicional; viagens mais longas incorrerão em taxas de horas extras.
+Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
 
-Neste projeto foi analisado duas das principais partes do processo de análise de dados: limpeza de dados e análise exploratória a fim de tomar decisões de negócios mais inteligentes
+babs\_datacheck.py; babs\_visualizations.py - Supplemental scripts for checking
+data wrangling, reporting of basic statistics, and creation of exploratory bar
+charts and histograms.
 
------------------------------------------------------------------------------------------------------------------------------------------
+Data is split among twelve other files, organized into three sets of four files
+each. Prefixing each set is one of three datestamps, showing the end month for
+each data collection period (201402, 201408, 201508). Suffixes for each file
+indicate contents:
 
-Bay Area Bike Share is a company that offers bicycle rentals to customers in San Francisco, Redwood City, Palo Alto, Mountain View and San Jose. Users can unlock bicycles from various stations in each city and return them to any station within the same city. The service is paid by annual subscription or by purchasing three-day or 24-hour passes. Users can make an unlimited number of trips. Trips with less than thirty minutes of duration will have no additional cost; longer trips will incur overtime charges.
+\*\_README.txt - Information about contents of data files.
 
-In this project it was analyzed two of the key parts of the data analysis process: data cleansing and exploratory analysis to make smarter business decisions
+\*\_station\_data.csv - Basic information about station locations and
+capacities.
+
+\*\_trip\_data.csv - Information about each trip taken using the bike share
+system.
+
+\*\_weather\_data.csv - Weather information by day for one station in each
+city in the bike share program.
